@@ -1,3 +1,6 @@
+###What is this?
+Just a simple logger module for NodeJS
+
 ###How to use
 
 ```javascript
